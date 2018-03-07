@@ -1,3 +1,5 @@
+Move to https://github.com/goinbox/golog
+
 # golog
 
 go get -d github.com/andals/golog
